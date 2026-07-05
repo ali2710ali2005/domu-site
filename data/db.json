@@ -1,0 +1,53 @@
+{
+  "users": [],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Te mola",
+      "artist": "Italiano",
+      "duration": "3:14",
+      "audioUrl": "/audio/track1.mp3",
+      "cover": "linear-gradient(135deg, #7C5CFF, #FF6F91)"
+    },
+    {
+      "id": 2,
+      "title": "Blok3",
+      "artist": "Ne yapıyorsun mesela",
+      "duration": "3:20",
+      "audioUrl": "/audio/track2.mp3",
+      "cover": "linear-gradient(135deg, #FF6F91, #5CE1FF)"
+    },
+    {
+      "id": 3,
+      "title": "Mockinbird",
+      "artist": "Eminem",
+      "duration": "3:23",
+      "audioUrl": "/audio/track3.mp3",
+      "cover": "linear-gradient(135deg, #5CE1FF, #7C5CFF)"
+    },
+    {
+      "id": 4,
+      "title": "Peligrosa",
+      "artist": "Floyy Menor",
+      "duration": "2:54",
+      "audioUrl": "/audio/track4.mp3",
+      "cover": "linear-gradient(135deg, #FF6F91, #7C5CFF)"
+    },
+    {
+      "id": 5,
+      "title": "Beautiful song",
+      "artist": "Poroduct of Ali",
+      "duration": "3:53",
+      "audioUrl": "/audio/track5.mp3",
+      "cover": "linear-gradient(135deg, #7C5CFF, #5CE1FF)"
+    },
+    {
+      "id": 6,
+      "title": "Oo anta mavava",
+      "artist": "Club music",
+      "duration": "4:58",
+      "audioUrl": "/audio/track6.mp3",
+      "cover": "linear-gradient(135deg, #5CE1FF, #FF6F91)"
+    }
+  ]
+}
